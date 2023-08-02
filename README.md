@@ -1,11 +1,10 @@
 ### **<i>Hymenocardia punctata<i>**
 
-This repository gathers the interactive images and supplementary information of the phytochemical study of Hymenocardia punctata
+This repository gathers the interactive images and supplementary information of the phytochemical study of <i>Hymenocardia punctata<i>
 
 ## Intro 
 
-The purpose of this publication is to describe the chromatographic and spectral data obtained from the profiling of a unique set of 76 plant exatracts from the Celastraceae Family.
-Their exploration makes the object of the current Data Descriptor.
+This study investigates the potential of natural plant extracts in drug discovery targeting the Wnt signaling pathway, which plays a crucial role in various biological processes and has implications for multiple disorders, including cancer.
 
 ### Partners
 
@@ -28,25 +27,27 @@ Their exploration makes the object of the current Data Descriptor.
 
 ## Project Abstract 
 > 
-> todo.
+> TO DO
 > 
 
 
 ## Data availability  
 
-Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.org/doi:10.25345/C5PJ9N).
+Raw Data are available in the the MassIVE repository [MSV000092572](doi:10.25345/C5J960M2W).
 
 <!-- toc -->
 
 ## Publication interactive images
 
-### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/img/Celastraceae_sunburst_pos.html)
+### Fig 1 [**ION MAP (Inventa) for the original extract of H. punctata in POSITIVE Ionization Mode**](/docs/IonMap2D_original.html)
 
-### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastraceae_sunburst_neg.html)
+### Fig 2 [**Hymenocardia punctata (HPE) Ion Identity Feature-Based Molecular Networking in POSITIVE Ionization Mode**](/docs/MN_HPE_pos.pdf)
 
-### Fig 4.A [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/img/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
 
-### Fig 3 [**Chemical Class Cnnotation Coverage in POSITIVE Ionizatio Mode**](/img/Chemical_class_Celastraceae.html)
+## Supplementary Images
+
+### Supplementary Fig S1 [**H. punctata (HPE) Interactive Sunburst plot in POSITIVE Ionization Mode**](/docs/H_puntata_sunburst_pos.html)
+### Supplementary Fig S1 [**H. punctata (HPE) Interactive Treemap plot in POSITIVE Ionization Mode**](/docs/H_puntata_treemap_pos.html)
 
 <!-- tocstop -->
 
@@ -54,9 +55,9 @@ Raw Data are available in the the MassIVE repository [MSV000087970](https://doi.
 
 ## Contributors
 
-|Name     |  Twitter Handle   | 
+|Name     |  Twitter   |  Linkedin   | 
 |---------|-----------------|
-|[Luis Quiros-Guerrero](https://github.com/luigiquiros)| @luisquirosg       |
+|[Luis Quiros-Guerrero](https://github.com/luigiquiros)| [@luisquirosg](https://twitter.com/LuisQuirosG) | [@luisquirosg](https://www.linkedin.com/in/luisquirosg/) |
 
 
 
