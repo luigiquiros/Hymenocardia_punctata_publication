@@ -47,6 +47,7 @@ Raw Data are available in the the MassIVE repository [MSV000092572](doi:10.25345
 ## Supplementary Images
 
 ### Supplementary Fig S1 [**Hymenocardia punctata (original extract) Ion Identity Feature-Based Molecular Networking in POSITIVE Ionization Mode**](/docs/MN_original_pos.pdf)
+### Supplementary Fig S1 (legend) [**Hymenocardia punctata (original extract) Ion Identity Feature-Based Molecular Networking in POSITIVE Ionization Mode**](/docs/MN_original_pos_legend.pdf)
 ### Supplementary Fig S2 [**H. punctata (HPE) Interactive Sunburst plot in POSITIVE Ionization Mode**](/docs/H_puntata_sunburst_pos.html)
 ### Supplementary Fig S2 [**H. punctata (HPE) Interactive Treemap plot in POSITIVE Ionization Mode**](/docs/H_puntata_treemap_pos.html)
 
