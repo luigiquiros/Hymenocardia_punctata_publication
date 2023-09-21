@@ -27,7 +27,7 @@ This study investigates the potential of natural plant extracts in drug discover
 
 ## Data availability  
 
-Raw Data are available in the the MassIVE repository [MSV000092572](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=ee8c8d92afd744c99ba0b6e1a53dfa0c).
+Raw Data are available in the the MassIVE repository [MSV000092572](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=ee8c8d92afd744c99ba0b6e1a53dfa0c)
 
 <!-- toc -->
 
