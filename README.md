@@ -33,7 +33,7 @@ Raw Data are available in the the MassIVE repository [MSV000092572](doi:10.25345
 
 ## Publication interactive images
 
-### Fig 2.B [**ION MAP (Inventa) for the original extract of <i>Hymenocardia punctata<i> in POSITIVE Ionization Mode**](/docs/IonMap2D_original.html)
+### Fig 2B [**ION MAP (Inventa) for the original extract of <i>Hymenocardia punctata<i> in POSITIVE Ionization Mode**](/docs/IonMap2D_original.html)
 
 ## Supplementary Images
 
